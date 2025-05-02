@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Chauhan from New Delhi, India</h1>
 <h3 align="center">Data Analyst | Power BI Enthusiast | Excel & SQL Pro | Turning Data into Business Wins</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aebb59da-753c-4776-b045-d39fe8e8c143" />
-
-## 🙋‍♂️ About Me
+<img align="right" alt="coding" width="400" height="300" src="https://github.com/user-attachments/assets/aebb59da-753c-4776-b045-d39fe8e8c143" />
+# 🙋‍♂️ About Me
 
 Hey! I’m **Ashish Chauhan**, a data enthusiast who’s passionate about transforming numbers into narratives and dashboards into decisions.
 
